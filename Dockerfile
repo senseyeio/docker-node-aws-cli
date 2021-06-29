@@ -1,4 +1,4 @@
-FROM node:12.13.1
+FROM node:12.19.0
 
 LABEL maintainer="Joe Bell<joe.bell.1329@gmail.com>"
 
